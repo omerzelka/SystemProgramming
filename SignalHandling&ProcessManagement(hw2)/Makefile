@@ -5,8 +5,8 @@ TARGET = procSearch
 
 all: $(TARGET)
 
-$(TARGET): try.c
-	$(CC) $(CFLAGS) try.c -o $(TARGET)
+$(TARGET): main.c
+	$(CC) $(CFLAGS) main.c -o $(TARGET)
 
 clean:
 	rm -f $(TARGET)
