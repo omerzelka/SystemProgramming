@@ -10,13 +10,13 @@ Gebze Technical University — CSE344 System Programming course assignments and 
 
 | # | Directory | Project | Key Concepts |
 |---|---|---|---|
-| HW1 | [`HW1_FileSearch`](HW1_FileSearch/) | Advanced POSIX File Search | File system traversal, regex, permissions, tree output |
-| HW2 | [`HW2_MultiProcess_FileSearch`](HW2_MultiProcess_FileSearch/) | Multi-Process File Search | `fork`, worker processes, pattern matching |
-| HW3 | [`HW3_WordTransport_System`](HW3_WordTransport_System/) | Multi-Process Word Transport | Shared memory, semaphores, elevators, sorting processes |
-| HW4 | [`HW4_MultiProcess_LogAnalyzer`](HW4_MultiProcess_LogAnalyzer/) | Multi-Process Concurrent Log Analyzer | `fork`, shared memory, semaphores, pipes, `select()` watchdog |
-| HW5 | [`HW5_Multithreaded_CargoDelivery`](HW5_Multithreaded_CargoDelivery/) | Multi-Threaded Cargo Delivery Simulator | pthreads, mutex, condition variables, atomics, priority queue |
-| HW6 | [`HW6_Hogwarts_VocabExchange_Server`](HW6_Hogwarts_VocabExchange_Server/) | Hogwarts Potion Brewing & Inventory Server | TCP sockets, `select()` I/O multiplexing, role-based access control |
-| Final | [`FINAL_StockExchange_Server`](FINAL_StockExchange_Server/) | Concurrent Stock Exchange Simulator | TCP + UDP sockets, `select()`, broadcasting, portfolio management |
+| HW1 | [`FileSearch(HW1)`](FileSearch(HW1)/) | Advanced POSIX File Search | File system traversal, regex, permissions, tree output |
+| HW2 | [`MultiProcess_FileSearch(HW2)`](MultiProcess_FileSearch(HW2)/) | Multi-Process File Search | `fork`, worker processes, pattern matching |
+| HW3 | [`WordTransport_System(HW3)`](WordTransport_System(HW3)/) | Multi-Process Word Transport | Shared memory, semaphores, elevators, sorting processes |
+| HW4 | [`MultiProcess_LogAnalyzer(HW4)`](MultiProcess_LogAnalyzer(HW4)/) | Multi-Process Concurrent Log Analyzer | `fork`, shared memory, semaphores, pipes, `select()` watchdog |
+| HW5 | [`Multithreaded_CargoDelivery(HW5)`](Multithreaded_CargoDelivery(HW5)/) | Multi-Threaded Cargo Delivery Simulator | pthreads, mutex, condition variables, atomics, priority queue |
+| HW6 | [`Hogwarts_VocabExchange_Server(HW6)`](Hogwarts_VocabExchange_Server(HW6)/) | Hogwarts Potion Brewing & Inventory Server | TCP sockets, `select()` I/O multiplexing, role-based access control |
+| Final | [`StockExchange_Server(HW7)`](StockExchange_Server(HW7)/) | Concurrent Stock Exchange Simulator | TCP + UDP sockets, `select()`, broadcasting, portfolio management |
 
 ## Build
 
