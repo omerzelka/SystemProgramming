@@ -1,0 +1,27 @@
+# Compiled objects
+*.o
+*.obj
+
+# Executables
+analyzer
+ServerTrd
+analyst
+ticker
+trader
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Archives
+*.zip
+
+# Virtual environments
+.venv/
+
+# Log files (optional - remove these lines if you want to track logs)
+# *.log
